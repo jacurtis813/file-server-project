@@ -41,8 +41,7 @@
 1. Locate and download Xubuntu (Linux XFCE distro)
 - Link: https://xubuntu.org/download/
 - Example View - Scroll down below the Torrent Section and locat the Mirror Section. Dependent on your location and region - select what suits you. I will select and use the United States.
-- ![alt text](image-2.png)
-<br>
+- ![alt text](image-2.png)<br><br>
 - Example View - This is what the United States Mirror selection looks like. I will locae the Xubuntu-Minimal for 64-bit iso to select and download. **(xubuntu-24.04.3-minimal-amd64.iso)**
 - ![alt text](image-3.png)
 
