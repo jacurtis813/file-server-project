@@ -38,31 +38,31 @@
 
 ### Disclaimer - These are the steps that I took for this project, that were successful for me using the device(s) and tool(s) outlined in the project. (The device I used for this project was a spare that I was willing to experiment with.) Please note that setting this up on a device improperly could lead to erasing your disk drive and potentially losing data. I will start with ALWAYS make sure you back up your data -- FIRST! I am not creating this project outline as a HOW-TO rather as a WHAT-I-DID outline...And be nice to your neighbor :D
 
-1. Locate and download Xubuntu (Linux XFCE distro)
-- Link: https://xubuntu.org/download/
-- Example View - Scroll down below the Torrent Section and locat the Mirror Section. Dependent on your location and region - select what suits you. I will select and use the United States.
+1. **Locate and download Xubuntu** *(Linux XFCE distro)*
+- **Link:** https://xubuntu.org/download/
+- **Example View** - Scroll down below the Torrent Section and locat the Mirror Section. Dependent on your location and region - select what suits you. I will select and use the United States.
 - ![alt text](image-2.png)<br><br>
-- Example View - This is what the United States Mirror selection looks like. I will locae the Xubuntu-Minimal for 64-bit iso to select and download. **(xubuntu-24.04.3-minimal-amd64.iso)**
+- **Example View** - This is what the United States Mirror selection looks like. I will locae the Xubuntu-Minimal for 64-bit iso to select and download. **(xubuntu-24.04.3-minimal-amd64.iso)**
 - ![alt text](image-3.png)
 
-2. Locate and download Rufus (bootable media builder tool)
-- Link: https://rufus.ie/en/
-- Example View - Select the latest release or go to GitHub or FossHub for previous versions
+2. **Locate and download Rufus** *(bootable media builder tool)*
+- **Link:** https://rufus.ie/en/
+- **Example View** - Select the latest release or go to GitHub or FossHub for previous versions
 - ![alt text](image-1.png)
 
-3. Install Rufus on our Windows Device
+3. **Install Rufus on our Windows Device**
 We will need to (execute) the Rufus.exe to install the bootable media builder tool. Walk through the prompts for installation. Note: Please ensure that your system meets the minimal system requirements. (Notated in the image under Rufus)
 
-4. Prepare USB Drive
-Connect your USB drive to the Windows device, and make sure the drive is empty or perform a reformat before beginning the process. 
+4. **Prepare USB Drive**
+<p>Connect your USB drive to the Windows device, and make sure the drive is empty or perform a reformat before beginning the process.</p>
 - Connect to Windows Device
 - Open File Explorer
 - Right-Click on the USB Drive > Select Format
 - Format Dialog Window > Quick Format
 - Complete
 
-5. Create a bootable media USB Drive
-With the USB still connected to the device, we will open the Rufus Tool. Once the tool loads we will setup our configuration fields to create the bootable drive.
+5. **Create a bootable media USB Drive**
+<p>With the USB still connected to the device, we will open the Rufus Tool. Once the tool loads we will setup our configuration fields to create the bootable drive.</p>
 - Device Field - Select the USB Drive connected to the device. **(CONFIRM CORRECT SELECTION)**
 - Boot Selection Field - Select **Disk or USB**
 - Select Dropdown Field - Select to open the file-browser, then select the Xubunut.
