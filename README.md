@@ -2,7 +2,7 @@
 
 ---
 
-## Description: In short - I wanted to create an on-prem, lan-only, file-share/sync/serve solution. I am not a traditional-tech, and with that said I wanted this "file-server" to have a graphical interface with additional abilities. As well, I did not want to PAY any money to BIG-TECH. I'd rather donate to the FOSS and alternative privacy/ security focused solutions on the market. 
+### Description: In short - I wanted to create an on-prem, lan-only, file-share/sync/serve solution. I am not a traditional-tech, and with that said I wanted this "file-server" to have a graphical interface with additional abilities. As well, I did not want to PAY any money to BIG-TECH. I'd rather donate to the FOSS and alternative privacy/ security focused solutions on the market. 
 
 ---
 
@@ -36,12 +36,13 @@
 
 ## Step-by-Step:
 
-### Disclaimer - These are the steps that I took for this project, that wer successful for me using the device(s) and tool(s) outlined in the project. (The device I used for this project was a spare that I was willing to experiment with.) Please note that setting this up on a device improperly could lead to erasing your disk drive and potentially losing data. I will start with ALWAYS make sure you back up your data -- FIRST! I am not creating this project outline as a HOW-TO rather as a WHAT-I-DID outline...And be nice to your neighbor :D
+### Disclaimer - These are the steps that I took for this project, that were successful for me using the device(s) and tool(s) outlined in the project. (The device I used for this project was a spare that I was willing to experiment with.) Please note that setting this up on a device improperly could lead to erasing your disk drive and potentially losing data. I will start with ALWAYS make sure you back up your data -- FIRST! I am not creating this project outline as a HOW-TO rather as a WHAT-I-DID outline...And be nice to your neighbor :D
 
 1. Locate and download Xubuntu (Linux XFCE distro)
 - Link: https://xubuntu.org/download/
 - Example View - Scroll down below the Torrent Section and locat the Mirror Section. Dependent on your location and region - select what suits you. I will select and use the United States.
 - ![alt text](image-2.png)
+<br>
 - Example View - This is what the United States Mirror selection looks like. I will locae the Xubuntu-Minimal for 64-bit iso to select and download. **(xubuntu-24.04.3-minimal-amd64.iso)**
 - ![alt text](image-3.png)
 
