@@ -54,7 +54,7 @@
 We will need to (execute) the Rufus.exe to install the bootable media builder tool. Walk through the prompts for installation. Note: Please ensure that your system meets the minimal system requirements. (Notated in the image under Rufus)
 
 4. **Prepare USB Drive**
-<p>Connect your USB drive to the Windows device, and make sure the drive is empty or perform a reformat before beginning the process.</p>
+Connect your USB drive to the Windows device, and make sure the drive is empty or perform a reformat before beginning the process.
 - Connect to Windows Device
 - Open File Explorer
 - Right-Click on the USB Drive > Select Format
@@ -62,7 +62,7 @@ We will need to (execute) the Rufus.exe to install the bootable media builder to
 - Complete
 
 5. **Create a bootable media USB Drive**
-<p>With the USB still connected to the device, we will open the Rufus Tool. Once the tool loads we will setup our configuration fields to create the bootable drive.</p>
+With the USB still connected to the device, we will open the Rufus Tool. Once the tool loads we will setup our configuration fields to create the bootable drive.
 - Device Field - Select the USB Drive connected to the device. **(CONFIRM CORRECT SELECTION)**
 - Boot Selection Field - Select **Disk or USB**
 - Select Dropdown Field - Select to open the file-browser, then select the Xubunut.
