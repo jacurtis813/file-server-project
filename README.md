@@ -64,6 +64,32 @@ Connect your USB drive to the Windows device, and make sure the drive is empty o
 
 5. **Create a bootable media USB Drive:**
 With the USB still connected to the device - open the Rufus Tool. Once the tool launches we will setup our configuration fields to create the bootable drive.
+
+#### Driver Properties
 - Device Field - Select the USB Drive connected to the device. **(CONFIRM CORRECT SELECTION)**
 - Boot Selection Field - Select **Disk or USB:**
-- Select Dropdown Field - Select to open the file-browser, then select the Xubuntu.iso
+- Select Dropdown Field - Select to open the file-browser, then select the **xubuntu-24.04-minimal-amd64.iso** *(disk image)*
+- Partition Scheme Field - GPT 
+- Target System Field - UEFI (non CSM)
+
+#### Format Properties
+- Volume Label Field - I will leave the default naming convention. **Xubuntu 24.04.3 LTS amd64**
+- File System Field - FAT32 (Default)
+- Cluster Size Field - 16 Kilobytes (Default)
+- Advanced Options - Leave Defaults
+
+#### Status
+- Select Start
+- Example View
+- ![alt text](Assets/image.png)<br><br>
+
+- **Note:** We will be prompted that this is an ISOhybrid image and that we can either create an ISO or DD image. We will roll with the recommended ISO image. We Can select the ISO image option and select OK. 
+- Example View
+- ![alt text](Assets/image-4.png)<br><br>
+
+- **Note:** We will be prompted with a warning message - ALL DATA ON THE USB DRIVE WILL BE DESTROYED. Select OK.
+- ![alt text](Assets/image-5.png)<br><br>
+
+- Now our drive is being built.
+- Example View
+- ![alt text](Assets/image-5.png)<br><br>
